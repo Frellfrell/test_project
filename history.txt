@@ -1,0 +1,126 @@
+    1  cd
+    2  cat .ssh/ id_ed25519.pub
+    3  cat .ssh/id_ed25519.pub
+    4  pwd
+    5  cd
+    6  cd
+    7  cat .ssh/.pub
+    8  pwd
+    9  mkdir git_intro
+   10  cd git_intro
+   11  echo "# git_intro" >> README.md
+   12  ls
+   13  pwd
+   14  git inet
+   15  git init
+   16  ls -la
+   17  cp '/c/Users/Ella/Desktop/Meine Projekte/Front Auf 8.1/OIPv.jpg' ~/git_intro
+   18  ls ~/git_intro
+   19  git status
+   20  git add .
+   21  git status
+   22  git commit -m "Aded photo,aded README.md"
+   23  git config --global user.email "ella.gubareva.24@gmail.com"
+   24  git config --global user.name "Frellfrell"
+   25  git branch -M main
+   26  git log --oneline
+   27   git commit -m "Aded photo,aded README.md"
+   28  git remote add origin git@github.com:Frellfrell/git_intro.git
+   29  git remote -v
+   30  git push -u origin main
+   31  cd
+   32  ssh ec2-user@linux.itcareerhub.de
+   33  history
+   34   ssh ec2-user@linux.itcareerhub.de
+   35  history
+   36  ssh ec2-user@linux.itcareerhub.de
+   37  cd
+   38  cd ..
+   39  cd history
+   40  cd .ssh
+   41  cd $ssh
+   42  history
+   43   ssh ec2-user@linux.itcareerhub.de
+   44  cd
+   45  history 
+   46   ssh ec2-user@linux.itcareerhub.de
+   47  cd history
+   48  history
+   49   ssh ec2-user@linux.itcareerhub.de
+   50  winget install Schniz.fnm
+   51  fnm install 22
+   52  fnm install 22
+   53  node -v
+   54  node -v
+   55  npm -v
+   56  node -v
+   57  sass --version
+   58  nvm list
+   59  npm install -g sass
+   60  sass --version
+   61  nvm list
+   62  nvm instal 20.10.0
+   63  node -v
+   64  appwiz.cpl
+   65  nvm -v
+   66  nvm install 20.10.0
+   67  nvm use 20
+   68  nvm use 20.10.0
+   69  node -v
+   70  node -v
+   71  sass -v
+   72  history 
+   73   ssh ec2-user@linux.itcareerhub.de
+   74  history 
+   75   ssh ec2-user@linux.itcareerhub.de
+   76  history
+   77   ssh ec2-user@linux.itcareerhub.de
+   78  history
+   79   ssh ec2-user@linux.itcareerhub.de
+   80  history
+   81   ssh ec2-user@linux.itcareerhub.de
+   82  history
+   83   ssh ec2-user@linux.itcareerhub.de
+   84  git branch
+   85  cd
+   86  echo "# test_project" >> README.md
+   87  ls -l
+   88  pwd
+   89  ls pwd
+   90  ls
+   91  ls -a
+   92  mkdir testProject
+   93  pwd
+   94  cd ~
+   95  pwd
+   96  mkdir test-project
+   97  mv README.md ~/test-project/
+   98  cd test-project/
+   99  ls -l
+  100  git init 
+  101  git add README.md 
+  102  git commit -m "added README.md" 
+  103  cd ~
+  104  rm -rf ~/test-project   
+  105  ls -la
+  106  cd ~
+  107  git clone git@github.com:Frellfrell/test_project.git 
+  108  cd test_project 
+  109  echo "# test_project" > README.md 
+  110  echo "*.log" > .gitignore
+  111  git add README.md .gitignore 
+  112  git commit -m "Added commit with README and .gitignore"
+  113  git push origin main
+  114  git checkout -b feature
+  115  echo "## Feature work" >> README.md 
+  116  echo "# Ignore files" >> .gitignore 
+  117  git add README.md .gitignore 
+  118  commit -m "update  README and .gitignore"
+  119  git commit -m "update  README and .gitignore"  
+  120  git commit --amend -m "update  README and .gitignore (amend)"
+  121  git push --forse origin feature
+  122  git puch --force origin feature
+  123  git push --force origin feature 
+  124  git checkout main
+  125  git merge feature
+  126  history > history.txt
